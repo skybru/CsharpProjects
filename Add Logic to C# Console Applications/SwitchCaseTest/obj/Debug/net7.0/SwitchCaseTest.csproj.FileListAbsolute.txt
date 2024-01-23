@@ -1,0 +1,14 @@
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/BooleanExpressionsTest/SwitchCaseTest/bin/Debug/net7.0/SwitchCaseTest
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/BooleanExpressionsTest/SwitchCaseTest/bin/Debug/net7.0/SwitchCaseTest.deps.json
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/BooleanExpressionsTest/SwitchCaseTest/bin/Debug/net7.0/SwitchCaseTest.runtimeconfig.json
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/BooleanExpressionsTest/SwitchCaseTest/bin/Debug/net7.0/SwitchCaseTest.dll
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/BooleanExpressionsTest/SwitchCaseTest/bin/Debug/net7.0/SwitchCaseTest.pdb
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/BooleanExpressionsTest/SwitchCaseTest/obj/Debug/net7.0/SwitchCaseTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/BooleanExpressionsTest/SwitchCaseTest/obj/Debug/net7.0/SwitchCaseTest.AssemblyInfoInputs.cache
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/BooleanExpressionsTest/SwitchCaseTest/obj/Debug/net7.0/SwitchCaseTest.AssemblyInfo.cs
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/BooleanExpressionsTest/SwitchCaseTest/obj/Debug/net7.0/SwitchCaseTest.csproj.CoreCompileInputs.cache
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/BooleanExpressionsTest/SwitchCaseTest/obj/Debug/net7.0/SwitchCaseTest.dll
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/BooleanExpressionsTest/SwitchCaseTest/obj/Debug/net7.0/refint/SwitchCaseTest.dll
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/BooleanExpressionsTest/SwitchCaseTest/obj/Debug/net7.0/SwitchCaseTest.pdb
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/BooleanExpressionsTest/SwitchCaseTest/obj/Debug/net7.0/SwitchCaseTest.genruntimeconfig.cache
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/BooleanExpressionsTest/SwitchCaseTest/obj/Debug/net7.0/ref/SwitchCaseTest.dll

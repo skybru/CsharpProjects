@@ -1,0 +1,14 @@
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/bin/Debug/net7.0/Final
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/bin/Debug/net7.0/Final.deps.json
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/bin/Debug/net7.0/Final.runtimeconfig.json
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/bin/Debug/net7.0/Final.dll
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/bin/Debug/net7.0/Final.pdb
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/obj/Debug/net7.0/Final.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/obj/Debug/net7.0/Final.AssemblyInfoInputs.cache
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/obj/Debug/net7.0/Final.AssemblyInfo.cs
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/obj/Debug/net7.0/Final.csproj.CoreCompileInputs.cache
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/obj/Debug/net7.0/Final.dll
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/obj/Debug/net7.0/refint/Final.dll
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/obj/Debug/net7.0/Final.pdb
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/obj/Debug/net7.0/Final.genruntimeconfig.cache
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/obj/Debug/net7.0/ref/Final.dll

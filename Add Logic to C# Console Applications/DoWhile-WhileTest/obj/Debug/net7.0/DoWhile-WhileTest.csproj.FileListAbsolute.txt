@@ -1,0 +1,14 @@
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/BooleanExpressionsTest/DoWhile-WhileTest/bin/Debug/net7.0/DoWhile-WhileTest
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/BooleanExpressionsTest/DoWhile-WhileTest/bin/Debug/net7.0/DoWhile-WhileTest.deps.json
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/BooleanExpressionsTest/DoWhile-WhileTest/bin/Debug/net7.0/DoWhile-WhileTest.runtimeconfig.json
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/BooleanExpressionsTest/DoWhile-WhileTest/bin/Debug/net7.0/DoWhile-WhileTest.dll
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/BooleanExpressionsTest/DoWhile-WhileTest/bin/Debug/net7.0/DoWhile-WhileTest.pdb
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/BooleanExpressionsTest/DoWhile-WhileTest/obj/Debug/net7.0/DoWhile-WhileTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/BooleanExpressionsTest/DoWhile-WhileTest/obj/Debug/net7.0/DoWhile-WhileTest.AssemblyInfoInputs.cache
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/BooleanExpressionsTest/DoWhile-WhileTest/obj/Debug/net7.0/DoWhile-WhileTest.AssemblyInfo.cs
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/BooleanExpressionsTest/DoWhile-WhileTest/obj/Debug/net7.0/DoWhile-WhileTest.csproj.CoreCompileInputs.cache
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/BooleanExpressionsTest/DoWhile-WhileTest/obj/Debug/net7.0/DoWhile-WhileTest.dll
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/BooleanExpressionsTest/DoWhile-WhileTest/obj/Debug/net7.0/refint/DoWhile-WhileTest.dll
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/BooleanExpressionsTest/DoWhile-WhileTest/obj/Debug/net7.0/DoWhile-WhileTest.pdb
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/BooleanExpressionsTest/DoWhile-WhileTest/obj/Debug/net7.0/DoWhile-WhileTest.genruntimeconfig.cache
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/BooleanExpressionsTest/DoWhile-WhileTest/obj/Debug/net7.0/ref/DoWhile-WhileTest.dll

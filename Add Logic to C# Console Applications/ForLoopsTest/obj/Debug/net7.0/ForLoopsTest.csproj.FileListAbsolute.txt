@@ -1,0 +1,14 @@
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/BooleanExpressionsTest/ForLoopsTest/bin/Debug/net7.0/ForLoopsTest
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/BooleanExpressionsTest/ForLoopsTest/bin/Debug/net7.0/ForLoopsTest.deps.json
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/BooleanExpressionsTest/ForLoopsTest/bin/Debug/net7.0/ForLoopsTest.runtimeconfig.json
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/BooleanExpressionsTest/ForLoopsTest/bin/Debug/net7.0/ForLoopsTest.dll
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/BooleanExpressionsTest/ForLoopsTest/bin/Debug/net7.0/ForLoopsTest.pdb
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/BooleanExpressionsTest/ForLoopsTest/obj/Debug/net7.0/ForLoopsTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/BooleanExpressionsTest/ForLoopsTest/obj/Debug/net7.0/ForLoopsTest.AssemblyInfoInputs.cache
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/BooleanExpressionsTest/ForLoopsTest/obj/Debug/net7.0/ForLoopsTest.AssemblyInfo.cs
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/BooleanExpressionsTest/ForLoopsTest/obj/Debug/net7.0/ForLoopsTest.csproj.CoreCompileInputs.cache
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/BooleanExpressionsTest/ForLoopsTest/obj/Debug/net7.0/ForLoopsTest.dll
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/BooleanExpressionsTest/ForLoopsTest/obj/Debug/net7.0/refint/ForLoopsTest.dll
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/BooleanExpressionsTest/ForLoopsTest/obj/Debug/net7.0/ForLoopsTest.pdb
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/BooleanExpressionsTest/ForLoopsTest/obj/Debug/net7.0/ForLoopsTest.genruntimeconfig.cache
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/BooleanExpressionsTest/ForLoopsTest/obj/Debug/net7.0/ref/ForLoopsTest.dll

@@ -1,0 +1,14 @@
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\TestArray\bin\Debug\net7.0\TestArray.exe
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\TestArray\bin\Debug\net7.0\TestArray.deps.json
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\TestArray\bin\Debug\net7.0\TestArray.runtimeconfig.json
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\TestArray\bin\Debug\net7.0\TestArray.dll
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\TestArray\bin\Debug\net7.0\TestArray.pdb
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\TestArray\obj\Debug\net7.0\TestArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\TestArray\obj\Debug\net7.0\TestArray.AssemblyInfoInputs.cache
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\TestArray\obj\Debug\net7.0\TestArray.AssemblyInfo.cs
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\TestArray\obj\Debug\net7.0\TestArray.csproj.CoreCompileInputs.cache
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\TestArray\obj\Debug\net7.0\TestArray.dll
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\TestArray\obj\Debug\net7.0\refint\TestArray.dll
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\TestArray\obj\Debug\net7.0\TestArray.pdb
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\TestArray\obj\Debug\net7.0\TestArray.genruntimeconfig.cache
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\TestArray\obj\Debug\net7.0\ref\TestArray.dll

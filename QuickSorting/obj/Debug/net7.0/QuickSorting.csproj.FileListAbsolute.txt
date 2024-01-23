@@ -1,0 +1,14 @@
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/QuickSorting/bin/Debug/net7.0/QuickSorting
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/QuickSorting/bin/Debug/net7.0/QuickSorting.deps.json
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/QuickSorting/bin/Debug/net7.0/QuickSorting.runtimeconfig.json
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/QuickSorting/bin/Debug/net7.0/QuickSorting.dll
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/QuickSorting/bin/Debug/net7.0/QuickSorting.pdb
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/QuickSorting/obj/Debug/net7.0/QuickSorting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/QuickSorting/obj/Debug/net7.0/QuickSorting.AssemblyInfoInputs.cache
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/QuickSorting/obj/Debug/net7.0/QuickSorting.AssemblyInfo.cs
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/QuickSorting/obj/Debug/net7.0/QuickSorting.csproj.CoreCompileInputs.cache
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/QuickSorting/obj/Debug/net7.0/QuickSorting.dll
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/QuickSorting/obj/Debug/net7.0/refint/QuickSorting.dll
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/QuickSorting/obj/Debug/net7.0/QuickSorting.pdb
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/QuickSorting/obj/Debug/net7.0/QuickSorting.genruntimeconfig.cache
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/QuickSorting/obj/Debug/net7.0/ref/QuickSorting.dll

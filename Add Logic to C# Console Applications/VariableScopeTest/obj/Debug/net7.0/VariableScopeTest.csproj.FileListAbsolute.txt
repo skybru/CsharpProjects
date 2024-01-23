@@ -1,0 +1,14 @@
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/BooleanExpressionsTest/VariableScopeTest/bin/Debug/net7.0/VariableScopeTest
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/BooleanExpressionsTest/VariableScopeTest/bin/Debug/net7.0/VariableScopeTest.deps.json
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/BooleanExpressionsTest/VariableScopeTest/bin/Debug/net7.0/VariableScopeTest.runtimeconfig.json
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/BooleanExpressionsTest/VariableScopeTest/bin/Debug/net7.0/VariableScopeTest.dll
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/BooleanExpressionsTest/VariableScopeTest/bin/Debug/net7.0/VariableScopeTest.pdb
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/BooleanExpressionsTest/VariableScopeTest/obj/Debug/net7.0/VariableScopeTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/BooleanExpressionsTest/VariableScopeTest/obj/Debug/net7.0/VariableScopeTest.AssemblyInfoInputs.cache
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/BooleanExpressionsTest/VariableScopeTest/obj/Debug/net7.0/VariableScopeTest.AssemblyInfo.cs
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/BooleanExpressionsTest/VariableScopeTest/obj/Debug/net7.0/VariableScopeTest.csproj.CoreCompileInputs.cache
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/BooleanExpressionsTest/VariableScopeTest/obj/Debug/net7.0/VariableScopeTest.dll
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/BooleanExpressionsTest/VariableScopeTest/obj/Debug/net7.0/refint/VariableScopeTest.dll
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/BooleanExpressionsTest/VariableScopeTest/obj/Debug/net7.0/VariableScopeTest.pdb
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/BooleanExpressionsTest/VariableScopeTest/obj/Debug/net7.0/VariableScopeTest.genruntimeconfig.cache
+/Users/jojo/Desktop/VSCodeProjects/CsharpProjects/BooleanExpressionsTest/VariableScopeTest/obj/Debug/net7.0/ref/VariableScopeTest.dll

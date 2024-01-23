@@ -1,0 +1,43 @@
+﻿/*
+Random dice = new Random();
+int current = dice.Next(1, 11);
+
+do {
+    current = dice.Next(1,10);
+    Console.WriteLine(current);
+} while (current != 7);
+
+while (current >= 3) {
+    Console.WriteLine(current);
+    current = dice.Next(1, 11);
+}
+Console.WriteLine($"Last number: {current}");
+
+do {
+    current = dice.Next(1, 11);
+    if (current >= 8)
+        continue;
+    
+    Console.WriteLine(current);
+} while (current != 7);
+*/
+
+int healthPtsHero = 10;
+int healthPtsMob = 10;
+Random dice = new Random();
+
+do {
+    int attackHero = dice.Next(1, 10);
+    healthPtsMob -= attackHero;
+    Console.WriteLine($"The monster lost {attackHero} health. {healthPtsMob} health remaining.");
+
+    if (healthPtsMob <= 0)
+        continue;
+    
+    int attackMob = dice.Next(1, 10);
+    healthPtsHero -= attackMob;
+    Console.WriteLine($"The hero lost {attackMob} health. {healthPtsHero} health remaining.");
+    
+} while (healthPtsHero > 0 && healthPtsMob > 0);
+
+Console.WriteLine(healthPtsHero <= 0 ? "Monster wins" : "Hero wins!");
