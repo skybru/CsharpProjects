@@ -1,0 +1,14 @@
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\AlgQuadraticVsExponential\obj\Debug\net7.0\AlgQuadraticVsExponential.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\AlgQuadraticVsExponential\obj\Debug\net7.0\AlgQuadraticVsExponential.AssemblyInfoInputs.cache
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\AlgQuadraticVsExponential\obj\Debug\net7.0\AlgQuadraticVsExponential.AssemblyInfo.cs
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\AlgQuadraticVsExponential\obj\Debug\net7.0\AlgQuadraticVsExponential.csproj.CoreCompileInputs.cache
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\AlgQuadraticVsExponential\bin\Debug\net7.0\AlgQuadraticVsExponential.exe
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\AlgQuadraticVsExponential\bin\Debug\net7.0\AlgQuadraticVsExponential.deps.json
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\AlgQuadraticVsExponential\bin\Debug\net7.0\AlgQuadraticVsExponential.runtimeconfig.json
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\AlgQuadraticVsExponential\bin\Debug\net7.0\AlgQuadraticVsExponential.dll
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\AlgQuadraticVsExponential\bin\Debug\net7.0\AlgQuadraticVsExponential.pdb
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\AlgQuadraticVsExponential\obj\Debug\net7.0\AlgQuadraticVsExponential.dll
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\AlgQuadraticVsExponential\obj\Debug\net7.0\refint\AlgQuadraticVsExponential.dll
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\AlgQuadraticVsExponential\obj\Debug\net7.0\AlgQuadraticVsExponential.pdb
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\AlgQuadraticVsExponential\obj\Debug\net7.0\AlgQuadraticVsExponential.genruntimeconfig.cache
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\AlgQuadraticVsExponential\obj\Debug\net7.0\ref\AlgQuadraticVsExponential.dll
