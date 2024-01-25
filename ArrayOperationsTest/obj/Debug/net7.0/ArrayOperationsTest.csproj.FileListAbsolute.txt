@@ -1,0 +1,14 @@
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\ArrayOperationsTest\bin\Debug\net7.0\ArrayOperationsTest.exe
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\ArrayOperationsTest\bin\Debug\net7.0\ArrayOperationsTest.deps.json
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\ArrayOperationsTest\bin\Debug\net7.0\ArrayOperationsTest.runtimeconfig.json
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\ArrayOperationsTest\bin\Debug\net7.0\ArrayOperationsTest.dll
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\ArrayOperationsTest\bin\Debug\net7.0\ArrayOperationsTest.pdb
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\ArrayOperationsTest\obj\Debug\net7.0\ArrayOperationsTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\ArrayOperationsTest\obj\Debug\net7.0\ArrayOperationsTest.AssemblyInfoInputs.cache
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\ArrayOperationsTest\obj\Debug\net7.0\ArrayOperationsTest.AssemblyInfo.cs
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\ArrayOperationsTest\obj\Debug\net7.0\ArrayOperationsTest.csproj.CoreCompileInputs.cache
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\ArrayOperationsTest\obj\Debug\net7.0\ArrayOperationsTest.dll
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\ArrayOperationsTest\obj\Debug\net7.0\refint\ArrayOperationsTest.dll
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\ArrayOperationsTest\obj\Debug\net7.0\ArrayOperationsTest.pdb
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\ArrayOperationsTest\obj\Debug\net7.0\ArrayOperationsTest.genruntimeconfig.cache
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\ArrayOperationsTest\obj\Debug\net7.0\ref\ArrayOperationsTest.dll

@@ -1,0 +1,41 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "build",
+                "../../../AppData/Roaming/Code/User/workspaceStorage/c1d73a0e98ba940d15ed1d6ab10b2fd8/ms-dotnettools.csdevkit/Guided-project-debugging-CSharp-main.sln",
+                "/property:GenerateFullPaths=true",
+                "/consoleloggerparameters:NoSummary;ForceNoAlign"
+            ],
+            "problemMatcher": "$msCompile"
+        },
+        {
+            "label": "publish",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "publish",
+                "../../../AppData/Roaming/Code/User/workspaceStorage/c1d73a0e98ba940d15ed1d6ab10b2fd8/ms-dotnettools.csdevkit/Guided-project-debugging-CSharp-main.sln",
+                "/property:GenerateFullPaths=true",
+                "/consoleloggerparameters:NoSummary;ForceNoAlign"
+            ],
+            "problemMatcher": "$msCompile"
+        },
+        {
+            "label": "watch",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "watch",
+                "run",
+                "--project",
+                "../../../AppData/Roaming/Code/User/workspaceStorage/c1d73a0e98ba940d15ed1d6ab10b2fd8/ms-dotnettools.csdevkit/Guided-project-debugging-CSharp-main.sln"
+            ],
+            "problemMatcher": "$msCompile"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\DataTypeTest\bin\Debug\net7.0\DataTypeTest.exe
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\DataTypeTest\bin\Debug\net7.0\DataTypeTest.deps.json
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\DataTypeTest\bin\Debug\net7.0\DataTypeTest.runtimeconfig.json
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\DataTypeTest\bin\Debug\net7.0\DataTypeTest.dll
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\DataTypeTest\bin\Debug\net7.0\DataTypeTest.pdb
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\DataTypeTest\obj\Debug\net7.0\DataTypeTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\DataTypeTest\obj\Debug\net7.0\DataTypeTest.AssemblyInfoInputs.cache
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\DataTypeTest\obj\Debug\net7.0\DataTypeTest.AssemblyInfo.cs
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\DataTypeTest\obj\Debug\net7.0\DataTypeTest.csproj.CoreCompileInputs.cache
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\DataTypeTest\obj\Debug\net7.0\DataTypeTest.dll
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\DataTypeTest\obj\Debug\net7.0\refint\DataTypeTest.dll
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\DataTypeTest\obj\Debug\net7.0\DataTypeTest.pdb
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\DataTypeTest\obj\Debug\net7.0\DataTypeTest.genruntimeconfig.cache
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\DataTypeTest\obj\Debug\net7.0\ref\DataTypeTest.dll

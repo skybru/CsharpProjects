@@ -1,0 +1,14 @@
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\ChallengeMethodReturn\bin\Debug\net7.0\ChallengeMethodReturn.exe
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\ChallengeMethodReturn\bin\Debug\net7.0\ChallengeMethodReturn.deps.json
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\ChallengeMethodReturn\bin\Debug\net7.0\ChallengeMethodReturn.runtimeconfig.json
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\ChallengeMethodReturn\bin\Debug\net7.0\ChallengeMethodReturn.dll
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\ChallengeMethodReturn\bin\Debug\net7.0\ChallengeMethodReturn.pdb
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\ChallengeMethodReturn\obj\Debug\net7.0\ChallengeMethodReturn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\ChallengeMethodReturn\obj\Debug\net7.0\ChallengeMethodReturn.AssemblyInfoInputs.cache
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\ChallengeMethodReturn\obj\Debug\net7.0\ChallengeMethodReturn.AssemblyInfo.cs
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\ChallengeMethodReturn\obj\Debug\net7.0\ChallengeMethodReturn.csproj.CoreCompileInputs.cache
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\ChallengeMethodReturn\obj\Debug\net7.0\ChallengeMethodReturn.dll
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\ChallengeMethodReturn\obj\Debug\net7.0\refint\ChallengeMethodReturn.dll
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\ChallengeMethodReturn\obj\Debug\net7.0\ChallengeMethodReturn.pdb
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\ChallengeMethodReturn\obj\Debug\net7.0\ChallengeMethodReturn.genruntimeconfig.cache
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\ChallengeMethodReturn\obj\Debug\net7.0\ref\ChallengeMethodReturn.dll

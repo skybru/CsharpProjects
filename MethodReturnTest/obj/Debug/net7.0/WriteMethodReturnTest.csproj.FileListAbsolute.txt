@@ -1,0 +1,14 @@
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\WriteMethodReturnTest\bin\Debug\net7.0\WriteMethodReturnTest.exe
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\WriteMethodReturnTest\bin\Debug\net7.0\WriteMethodReturnTest.deps.json
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\WriteMethodReturnTest\bin\Debug\net7.0\WriteMethodReturnTest.runtimeconfig.json
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\WriteMethodReturnTest\bin\Debug\net7.0\WriteMethodReturnTest.dll
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\WriteMethodReturnTest\bin\Debug\net7.0\WriteMethodReturnTest.pdb
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\WriteMethodReturnTest\obj\Debug\net7.0\WriteMethodReturnTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\WriteMethodReturnTest\obj\Debug\net7.0\WriteMethodReturnTest.AssemblyInfoInputs.cache
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\WriteMethodReturnTest\obj\Debug\net7.0\WriteMethodReturnTest.AssemblyInfo.cs
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\WriteMethodReturnTest\obj\Debug\net7.0\WriteMethodReturnTest.csproj.CoreCompileInputs.cache
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\WriteMethodReturnTest\obj\Debug\net7.0\WriteMethodReturnTest.dll
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\WriteMethodReturnTest\obj\Debug\net7.0\refint\WriteMethodReturnTest.dll
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\WriteMethodReturnTest\obj\Debug\net7.0\WriteMethodReturnTest.pdb
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\WriteMethodReturnTest\obj\Debug\net7.0\WriteMethodReturnTest.genruntimeconfig.cache
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\WriteMethodReturnTest\obj\Debug\net7.0\ref\WriteMethodReturnTest.dll

@@ -1,0 +1,14 @@
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\FormatStringsTest\bin\Debug\net7.0\FormatStringsTest.exe
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\FormatStringsTest\bin\Debug\net7.0\FormatStringsTest.deps.json
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\FormatStringsTest\bin\Debug\net7.0\FormatStringsTest.runtimeconfig.json
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\FormatStringsTest\bin\Debug\net7.0\FormatStringsTest.dll
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\FormatStringsTest\bin\Debug\net7.0\FormatStringsTest.pdb
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\FormatStringsTest\obj\Debug\net7.0\FormatStringsTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\FormatStringsTest\obj\Debug\net7.0\FormatStringsTest.AssemblyInfoInputs.cache
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\FormatStringsTest\obj\Debug\net7.0\FormatStringsTest.AssemblyInfo.cs
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\FormatStringsTest\obj\Debug\net7.0\FormatStringsTest.csproj.CoreCompileInputs.cache
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\FormatStringsTest\obj\Debug\net7.0\FormatStringsTest.dll
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\FormatStringsTest\obj\Debug\net7.0\refint\FormatStringsTest.dll
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\FormatStringsTest\obj\Debug\net7.0\FormatStringsTest.pdb
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\FormatStringsTest\obj\Debug\net7.0\FormatStringsTest.genruntimeconfig.cache
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\FormatStringsTest\obj\Debug\net7.0\ref\FormatStringsTest.dll

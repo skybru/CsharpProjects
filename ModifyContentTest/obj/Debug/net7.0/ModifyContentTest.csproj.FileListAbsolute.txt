@@ -1,0 +1,14 @@
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\ModifyContentTest\bin\Debug\net7.0\ModifyContentTest.exe
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\ModifyContentTest\bin\Debug\net7.0\ModifyContentTest.deps.json
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\ModifyContentTest\bin\Debug\net7.0\ModifyContentTest.runtimeconfig.json
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\ModifyContentTest\bin\Debug\net7.0\ModifyContentTest.dll
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\ModifyContentTest\bin\Debug\net7.0\ModifyContentTest.pdb
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\ModifyContentTest\obj\Debug\net7.0\ModifyContentTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\ModifyContentTest\obj\Debug\net7.0\ModifyContentTest.AssemblyInfoInputs.cache
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\ModifyContentTest\obj\Debug\net7.0\ModifyContentTest.AssemblyInfo.cs
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\ModifyContentTest\obj\Debug\net7.0\ModifyContentTest.csproj.CoreCompileInputs.cache
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\ModifyContentTest\obj\Debug\net7.0\ModifyContentTest.dll
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\ModifyContentTest\obj\Debug\net7.0\refint\ModifyContentTest.dll
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\ModifyContentTest\obj\Debug\net7.0\ModifyContentTest.pdb
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\ModifyContentTest\obj\Debug\net7.0\ModifyContentTest.genruntimeconfig.cache
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\ModifyContentTest\obj\Debug\net7.0\ref\ModifyContentTest.dll

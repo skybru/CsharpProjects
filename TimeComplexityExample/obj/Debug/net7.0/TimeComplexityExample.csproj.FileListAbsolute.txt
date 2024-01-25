@@ -1,0 +1,14 @@
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\TimeComplexityExample\obj\Debug\net7.0\TimeComplexityExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\TimeComplexityExample\obj\Debug\net7.0\TimeComplexityExample.AssemblyInfoInputs.cache
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\TimeComplexityExample\obj\Debug\net7.0\TimeComplexityExample.AssemblyInfo.cs
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\TimeComplexityExample\obj\Debug\net7.0\TimeComplexityExample.csproj.CoreCompileInputs.cache
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\TimeComplexityExample\bin\Debug\net7.0\TimeComplexityExample.exe
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\TimeComplexityExample\bin\Debug\net7.0\TimeComplexityExample.deps.json
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\TimeComplexityExample\bin\Debug\net7.0\TimeComplexityExample.runtimeconfig.json
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\TimeComplexityExample\bin\Debug\net7.0\TimeComplexityExample.dll
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\TimeComplexityExample\bin\Debug\net7.0\TimeComplexityExample.pdb
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\TimeComplexityExample\obj\Debug\net7.0\TimeComplexityExample.dll
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\TimeComplexityExample\obj\Debug\net7.0\refint\TimeComplexityExample.dll
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\TimeComplexityExample\obj\Debug\net7.0\TimeComplexityExample.pdb
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\TimeComplexityExample\obj\Debug\net7.0\TimeComplexityExample.genruntimeconfig.cache
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\TimeComplexityExample\obj\Debug\net7.0\ref\TimeComplexityExample.dll

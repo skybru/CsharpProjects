@@ -1,0 +1,14 @@
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\WriteMethodTest\bin\Debug\net7.0\WriteMethodTest.exe
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\WriteMethodTest\bin\Debug\net7.0\WriteMethodTest.deps.json
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\WriteMethodTest\bin\Debug\net7.0\WriteMethodTest.runtimeconfig.json
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\WriteMethodTest\bin\Debug\net7.0\WriteMethodTest.dll
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\WriteMethodTest\bin\Debug\net7.0\WriteMethodTest.pdb
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\WriteMethodTest\obj\Debug\net7.0\WriteMethodTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\WriteMethodTest\obj\Debug\net7.0\WriteMethodTest.AssemblyInfoInputs.cache
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\WriteMethodTest\obj\Debug\net7.0\WriteMethodTest.AssemblyInfo.cs
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\WriteMethodTest\obj\Debug\net7.0\WriteMethodTest.csproj.CoreCompileInputs.cache
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\WriteMethodTest\obj\Debug\net7.0\WriteMethodTest.dll
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\WriteMethodTest\obj\Debug\net7.0\refint\WriteMethodTest.dll
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\WriteMethodTest\obj\Debug\net7.0\WriteMethodTest.pdb
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\WriteMethodTest\obj\Debug\net7.0\WriteMethodTest.genruntimeconfig.cache
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\WriteMethodTest\obj\Debug\net7.0\ref\WriteMethodTest.dll

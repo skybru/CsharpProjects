@@ -1,0 +1,14 @@
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\MethodReturnTest\bin\Debug\net7.0\MethodReturnTest.exe
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\MethodReturnTest\bin\Debug\net7.0\MethodReturnTest.deps.json
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\MethodReturnTest\bin\Debug\net7.0\MethodReturnTest.runtimeconfig.json
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\MethodReturnTest\bin\Debug\net7.0\MethodReturnTest.dll
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\MethodReturnTest\bin\Debug\net7.0\MethodReturnTest.pdb
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\MethodReturnTest\obj\Debug\net7.0\MethodReturnTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\MethodReturnTest\obj\Debug\net7.0\MethodReturnTest.AssemblyInfoInputs.cache
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\MethodReturnTest\obj\Debug\net7.0\MethodReturnTest.AssemblyInfo.cs
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\MethodReturnTest\obj\Debug\net7.0\MethodReturnTest.csproj.CoreCompileInputs.cache
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\MethodReturnTest\obj\Debug\net7.0\MethodReturnTest.dll
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\MethodReturnTest\obj\Debug\net7.0\refint\MethodReturnTest.dll
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\MethodReturnTest\obj\Debug\net7.0\MethodReturnTest.pdb
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\MethodReturnTest\obj\Debug\net7.0\MethodReturnTest.genruntimeconfig.cache
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\MethodReturnTest\obj\Debug\net7.0\ref\MethodReturnTest.dll

@@ -1,0 +1,14 @@
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\Guided-Project-VisitPettingZoo\bin\Debug\net7.0\Guided-Project-VisitPettingZoo.exe
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\Guided-Project-VisitPettingZoo\bin\Debug\net7.0\Guided-Project-VisitPettingZoo.deps.json
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\Guided-Project-VisitPettingZoo\bin\Debug\net7.0\Guided-Project-VisitPettingZoo.runtimeconfig.json
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\Guided-Project-VisitPettingZoo\bin\Debug\net7.0\Guided-Project-VisitPettingZoo.dll
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\Guided-Project-VisitPettingZoo\bin\Debug\net7.0\Guided-Project-VisitPettingZoo.pdb
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\Guided-Project-VisitPettingZoo\obj\Debug\net7.0\Guided-Project-VisitPettingZoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\Guided-Project-VisitPettingZoo\obj\Debug\net7.0\Guided-Project-VisitPettingZoo.AssemblyInfoInputs.cache
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\Guided-Project-VisitPettingZoo\obj\Debug\net7.0\Guided-Project-VisitPettingZoo.AssemblyInfo.cs
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\Guided-Project-VisitPettingZoo\obj\Debug\net7.0\Guided-Project-VisitPettingZoo.csproj.CoreCompileInputs.cache
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\Guided-Project-VisitPettingZoo\obj\Debug\net7.0\Guided-Project-VisitPettingZoo.dll
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\Guided-Project-VisitPettingZoo\obj\Debug\net7.0\refint\Guided-Project-VisitPettingZoo.dll
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\Guided-Project-VisitPettingZoo\obj\Debug\net7.0\Guided-Project-VisitPettingZoo.pdb
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\Guided-Project-VisitPettingZoo\obj\Debug\net7.0\Guided-Project-VisitPettingZoo.genruntimeconfig.cache
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\Guided-Project-VisitPettingZoo\obj\Debug\net7.0\ref\Guided-Project-VisitPettingZoo.dll

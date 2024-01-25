@@ -1,0 +1,14 @@
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\ChallengeMethodParameters\bin\Debug\net7.0\ChallengeMethodParameters.exe
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\ChallengeMethodParameters\bin\Debug\net7.0\ChallengeMethodParameters.deps.json
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\ChallengeMethodParameters\bin\Debug\net7.0\ChallengeMethodParameters.runtimeconfig.json
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\ChallengeMethodParameters\bin\Debug\net7.0\ChallengeMethodParameters.dll
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\ChallengeMethodParameters\bin\Debug\net7.0\ChallengeMethodParameters.pdb
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\ChallengeMethodParameters\obj\Debug\net7.0\ChallengeMethodParameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\ChallengeMethodParameters\obj\Debug\net7.0\ChallengeMethodParameters.AssemblyInfoInputs.cache
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\ChallengeMethodParameters\obj\Debug\net7.0\ChallengeMethodParameters.AssemblyInfo.cs
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\ChallengeMethodParameters\obj\Debug\net7.0\ChallengeMethodParameters.csproj.CoreCompileInputs.cache
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\ChallengeMethodParameters\obj\Debug\net7.0\ChallengeMethodParameters.dll
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\ChallengeMethodParameters\obj\Debug\net7.0\refint\ChallengeMethodParameters.dll
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\ChallengeMethodParameters\obj\Debug\net7.0\ChallengeMethodParameters.pdb
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\ChallengeMethodParameters\obj\Debug\net7.0\ChallengeMethodParameters.genruntimeconfig.cache
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\ChallengeMethodParameters\obj\Debug\net7.0\ref\ChallengeMethodParameters.dll

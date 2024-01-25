@@ -1,0 +1,14 @@
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\ChallengeWriteMethod\bin\Debug\net7.0\ChallengeWriteMethod.exe
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\ChallengeWriteMethod\bin\Debug\net7.0\ChallengeWriteMethod.deps.json
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\ChallengeWriteMethod\bin\Debug\net7.0\ChallengeWriteMethod.runtimeconfig.json
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\ChallengeWriteMethod\bin\Debug\net7.0\ChallengeWriteMethod.dll
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\ChallengeWriteMethod\bin\Debug\net7.0\ChallengeWriteMethod.pdb
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\ChallengeWriteMethod\obj\Debug\net7.0\ChallengeWriteMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\ChallengeWriteMethod\obj\Debug\net7.0\ChallengeWriteMethod.AssemblyInfoInputs.cache
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\ChallengeWriteMethod\obj\Debug\net7.0\ChallengeWriteMethod.AssemblyInfo.cs
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\ChallengeWriteMethod\obj\Debug\net7.0\ChallengeWriteMethod.csproj.CoreCompileInputs.cache
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\ChallengeWriteMethod\obj\Debug\net7.0\ChallengeWriteMethod.dll
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\ChallengeWriteMethod\obj\Debug\net7.0\refint\ChallengeWriteMethod.dll
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\ChallengeWriteMethod\obj\Debug\net7.0\ChallengeWriteMethod.pdb
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\ChallengeWriteMethod\obj\Debug\net7.0\ChallengeWriteMethod.genruntimeconfig.cache
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\ChallengeWriteMethod\obj\Debug\net7.0\ref\ChallengeWriteMethod.dll
