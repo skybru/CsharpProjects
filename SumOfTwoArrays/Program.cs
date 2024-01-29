@@ -28,8 +28,6 @@ int[] B = {1, 1, 1, 0, 0, 1, 0, 1};
 
 SummaArrays(A, B);
 
-
-
 void SummaArrays(int[] A, int[] B) {
     int[] C = new int[A.Length+1];
     int carry = 0;
