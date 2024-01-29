@@ -1,0 +1,14 @@
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\SumOfTwoArrays\bin\Debug\net7.0\SumOfTwoArrays.exe
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\SumOfTwoArrays\bin\Debug\net7.0\SumOfTwoArrays.deps.json
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\SumOfTwoArrays\bin\Debug\net7.0\SumOfTwoArrays.runtimeconfig.json
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\SumOfTwoArrays\bin\Debug\net7.0\SumOfTwoArrays.dll
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\SumOfTwoArrays\bin\Debug\net7.0\SumOfTwoArrays.pdb
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\SumOfTwoArrays\obj\Debug\net7.0\SumOfTwoArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\SumOfTwoArrays\obj\Debug\net7.0\SumOfTwoArrays.AssemblyInfoInputs.cache
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\SumOfTwoArrays\obj\Debug\net7.0\SumOfTwoArrays.AssemblyInfo.cs
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\SumOfTwoArrays\obj\Debug\net7.0\SumOfTwoArrays.csproj.CoreCompileInputs.cache
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\SumOfTwoArrays\obj\Debug\net7.0\SumOfTwoArrays.dll
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\SumOfTwoArrays\obj\Debug\net7.0\refint\SumOfTwoArrays.dll
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\SumOfTwoArrays\obj\Debug\net7.0\SumOfTwoArrays.pdb
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\SumOfTwoArrays\obj\Debug\net7.0\SumOfTwoArrays.genruntimeconfig.cache
+C:\Users\giorgio.bruschi\Desktop\VSCodeProjects\CsharpProjects\SumOfTwoArrays\obj\Debug\net7.0\ref\SumOfTwoArrays.dll
