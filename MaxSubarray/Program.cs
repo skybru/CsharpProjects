@@ -33,4 +33,19 @@ else
     else
         return cross-low, cross-high, cross-sum
 
+
+BRUTE-FIND-MAXIMUM-SUBARRAY(A, left, right)
+low = left
+high = right
+sum = 0
+for i = left to right
+    sumTemp = 0
+    for j = i to right
+        sumTemp = sumTemp + A[j]
+        if sumTemp > sum
+            sum = sumTemp
+            low = i
+            high = j
+return (low, high, sum)
+
 */
